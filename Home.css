@@ -11,6 +11,7 @@
   background-image: none;
   line-height: 2.2;
   font-size: 6rem;
+  font-weight: normal;
   margin: 145px 311px 0 0;
 }
 
@@ -25,23 +26,25 @@
   }
 
   .u-section-1 .u-sheet-1 {
-    min-height: 505px;
+    min-height: 781px;
   }
 
   .u-section-1 .u-text-1 {
-    font-weight: normal;
     margin-top: 268px;
     margin-right: 111px;
   }
 
   .u-section-1 .u-text-2 {
-    margin: 107px 439px 0 224px;
+    width: auto;
+    margin-top: -8px;
+    margin-right: 643px;
+    margin-left: 20px;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 387px;
+    min-height: 726px;
   }
 
   .u-section-1 .u-text-1 {
@@ -49,7 +52,9 @@
   }
 
   .u-section-1 .u-text-2 {
-    margin-right: 219px;
+    margin-top: -19px;
+    margin-right: 375px;
+    margin-left: 68px;
   }
 }
 
@@ -59,7 +64,7 @@
   }
 
   .u-section-1 .u-sheet-1 {
-    min-height: 290px;
+    min-height: 545px;
   }
 
   .u-section-1 .u-text-1 {
@@ -76,7 +81,7 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 183px;
+    min-height: 343px;
   }
 
   .u-section-1 .u-text-1 {
@@ -162,6 +167,7 @@
 .u-section-2 .u-text-5 {
   width: 651px;
   font-size: 2.25rem;
+  font-family: Lobster, display;
   margin: 95px auto 0;
 }
 
@@ -189,35 +195,41 @@
     margin-right: 583px;
     margin-left: 0;
   }
-
-  .u-section-2 .u-text-5 {
-    font-family: Lobster, display;
-  }
 }
 
 @media (max-width: 991px) {
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 23px;
+    padding-right: 23px;
+  }
+
   .u-section-2 .u-text-1 {
     margin-top: 28px;
-    margin-left: 330px;
+    margin-right: 7px;
+    margin-left: 337px;
   }
 
   .u-section-2 .u-image-1 {
     width: 303px;
     height: 377px;
-    margin-top: -28px;
+    margin-top: -29px;
+    margin-left: 21px;
   }
 
   .u-section-2 .u-text-2 {
-    margin-top: -326px;
-    margin-left: 330px;
+    margin-top: -335px;
+    margin-left: 344px;
   }
 
   .u-section-2 .u-text-3 {
-    margin-left: 330px;
+    margin-top: 23px;
+    margin-right: 7px;
+    margin-left: 337px;
   }
 
   .u-section-2 .u-text-4 {
-    margin-right: 363px;
+    width: auto;
+    margin: 151px 334px 0 43px;
   }
 }
 
@@ -228,25 +240,29 @@
   }
 
   .u-section-2 .u-text-1 {
+    margin-right: 0;
     margin-left: 190px;
   }
 
   .u-section-2 .u-image-1 {
     width: 178px;
     height: 178px;
+    margin-top: 20px;
   }
 
   .u-section-2 .u-text-2 {
-    margin-top: -126px;
+    margin-top: 20px;
     margin-left: 190px;
   }
 
   .u-section-2 .u-text-3 {
+    margin-right: 0;
     margin-left: 190px;
   }
 
   .u-section-2 .u-text-4 {
     margin-right: 223px;
+    margin-left: 0;
   }
 
   .u-section-2 .u-text-5 {
@@ -363,6 +379,7 @@
 
 .u-section-3 .u-image-3 {
   background-image: url("images/2022-03-29_23.32.27.png");
+  background-position: 50% 50%;
 }
 
 .u-section-3 .u-container-layout-5 {
@@ -380,6 +397,7 @@
 
 .u-section-3 .u-image-5 {
   background-image: url("images/2022-03-29_23.30.27.png");
+  background-position: 50% 50%;
 }
 
 .u-section-3 .u-container-layout-7 {
@@ -388,6 +406,7 @@
 
 .u-section-3 .u-image-6 {
   background-image: url("images/2022-03-29_23.27.50.png");
+  background-position: 50% 50%;
 }
 
 .u-section-3 .u-container-layout-8 {
@@ -431,16 +450,18 @@
   }
 
   .u-section-3 .u-layout-cell-1 {
-    min-height: 100px;
+    min-height: 431px;
   }
 
   .u-section-3 .u-container-layout-1 {
-    padding-left: 30px;
-    padding-right: 30px;
+    padding-left: 0;
+    padding-right: 0;
   }
 
   .u-section-3 .u-text-2 {
-    width: 295px;
+    width: auto;
+    margin-right: 20px;
+    margin-left: 14px;
   }
 
   .u-section-3 .u-layout-cell-2 {
@@ -472,9 +493,8 @@
     min-height: 278px;
   }
 
-  .u-section-3 .u-container-layout-1 {
-    padding-left: 10px;
-    padding-right: 10px;
+  .u-section-3 .u-layout-cell-1 {
+    min-height: 100px;
   }
 
   .u-section-3 .u-container-layout-5 {
@@ -494,6 +514,11 @@
 }
 
 @media (max-width: 575px) {
+  .u-section-3 .u-text-2 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
   .u-section-3 .u-slider-1 {
     width: 340px;
   }
